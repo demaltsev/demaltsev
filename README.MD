@@ -2,7 +2,7 @@
 
 ## 👋 Hello!
 
-## I am a QA Engineer with proficiency in Functional Testing (manual) such as Web Application Testing. I am a responsible and purposeful person, easy involve in working process.
+## I am a QA Auto Engineer with proficiency in functional testing (manual) and autotesting. I am a responsible and purposeful person, easy involve in working process.
 
 ### Languages and Tools
 ![SQL](https://img.shields.io/badge/-SQL-000000??style=for-the-badge&logo=MYSQL&logoColor=229799)
