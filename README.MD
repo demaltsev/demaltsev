@@ -13,9 +13,6 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-000000??style=for-the-badge&logo=JAVA&logoColor=d627d8)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-000000??style=for-the-badge&logo=SCRUM&logoColor=d627d8)
 
-### My eng CV
-![Link to my eng CV](https://github.com/demaltsev/demaltsev/blob/main/CV_ENG.pdf)
-
 ### My ru CV
 ![Link to my ru CV](https://github.com/demaltsev/demaltsev/blob/main/CV_RU.pdf)
 ### Follow me
